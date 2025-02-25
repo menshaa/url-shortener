@@ -99,7 +99,7 @@ http://localhost:3000
 
 #### Get Click Count (Debugging)
 
-**GET /stats/:shortCode**
+**GET /:shortCode/stats**
 
 ##### Response:
 
